@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>我的全新 Hugo 网站</title>
-        <link>uilddrafts/</link>
+        <link>https://zeroys.github.io/</link>
         <description>这是我的全新 Hugo 网站</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 02 Jan 2026 23:28:18 &#43;0800</lastBuildDate>
-            <atom:link href="uilddrafts/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://zeroys.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Initial</title>
-    <link>uilddrafts/initial/</link>
+    <link>https://zeroys.github.io/initial/</link>
     <pubDate>Fri, 02 Jan 2026 23:28:18 &#43;0800</pubDate>
     <author>xxxx</author>
-    <guid>uilddrafts/initial/</guid>
+    <guid>https://zeroys.github.io/initial/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>

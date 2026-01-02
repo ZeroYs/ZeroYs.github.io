@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: /sitemap.xml
+Sitemap: https://zeroys.github.io/sitemap.xml
