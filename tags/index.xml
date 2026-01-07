@@ -2,10 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 我的全新 Hugo 网站</title>
-    <link>https://zeroys.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on 我的全新 Hugo 网站</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <atom:link href="https://zeroys.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>clx_life@163.com (ZeroYs)</managingEditor>
+    <webMaster>clx_life@163.com (ZeroYs)</webMaster>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,15 +1,25 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>所有文章 - 我的全新 Hugo 网站</title>
-        <link>https://zeroys.github.io/posts/</link>
+        <link>http://localhost:1313/posts/</link>
         <description>所有文章 | 我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 02 Jan 2026 23:28:18 &#43;0800</lastBuildDate><atom:link href="https://zeroys.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Initial</title>
-    <link>https://zeroys.github.io/initial/</link>
-    <pubDate>Fri, 02 Jan 2026 23:28:18 &#43;0800</pubDate>
-    <author>xxxx</author>
-    <guid>https://zeroys.github.io/initial/</guid>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>clx_life@163.com (ZeroYs)</managingEditor>
+            <webMaster>clx_life@163.com (ZeroYs)</webMaster><lastBuildDate>Wed, 07 Jan 2026 23:56:26 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>基础图形知识</title>
+    <link>http://localhost:1313/%E5%9F%BA%E7%A1%80%E5%9B%BE%E5%BD%A2%E7%9F%A5%E8%AF%86/</link>
+    <pubDate>Wed, 07 Jan 2026 23:56:26 &#43;0800</pubDate>
+    <author>ZeroYs</author>
+    <guid>http://localhost:1313/%E5%9F%BA%E7%A1%80%E5%9B%BE%E5%BD%A2%E7%9F%A5%E8%AF%86/</guid>
     <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>GitHub Pages &amp;&amp; Hugo 搭建个人blog</title>
+    <link>http://localhost:1313/initial/</link>
+    <pubDate>Fri, 02 Jan 2026 23:28:18 &#43;0800</pubDate>
+    <author>ZeroYs</author>
+    <guid>http://localhost:1313/initial/</guid>
+    <description><![CDATA[<h1 id="基础介绍">基础介绍</h1>
+<p>为什么我选用GitHub Pages 和 Hugo搭建个人blog，第一个原因就是it&rsquo;s free for GitHub Pages。第二就是hugo提供了很多的模板去搭建博客。</p>]]></description>
 </item>
 </channel>
 </rss>
